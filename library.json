@@ -1,0 +1,27 @@
+{
+  "name": "QualityOfLife",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunarta/Arduino-QualityOfLife.git"
+  },
+  "authors": [
+    {
+      "name": "Yunarta Kartawahyudi",
+      "email": "yunarta.kartawahyudi@gmail.com",
+      "url": "https://github.com/yunarta",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yunarta/",
+  "dependencies": {
+    "ArduinoJson": "",
+    "LittleFS": "",
+    "WiFi": ""
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
